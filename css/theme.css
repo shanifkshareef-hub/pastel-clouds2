@@ -9789,6 +9789,9 @@ textarea:focus:-ms-input-placeholder {
 }
 
 @media only screen and (max-width: 767px) {
+  .price_table_wrapper {
+    display: block;
+  }
   .right-sidebar .contentarea {
     padding-right: 0;
   }
