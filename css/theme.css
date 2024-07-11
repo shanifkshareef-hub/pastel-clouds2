@@ -2112,7 +2112,7 @@ img {
 }
 
 .header_parent_wrap {
-  padding: 26px 30px;
+  padding: 18px 30px;
   position: relative;
   transition: all 500ms;
   -webkit-transition: all 500ms;
@@ -9467,7 +9467,7 @@ textarea:focus:-ms-input-placeholder {
 .toggle-inner,
 .toggle-inner:before,
 .toggle-inner:after {
-  width: 30px;
+  width: 25px;
   height: 2px;
   border-radius: 2px;
   position: absolute;
@@ -9483,10 +9483,10 @@ textarea:focus:-ms-input-placeholder {
   display: block;
 }
 .toggle-inner:before {
-  top: -10px;
+  top: -7px;
 }
 .toggle-inner:after {
-  bottom: -10px;
+  bottom: -7px;
 }
 .mobile-navigation-toggle .toggle-inner {
   transition-duration: 0.1s;
@@ -9776,7 +9776,7 @@ textarea:focus:-ms-input-placeholder {
   }
 
   .logo_sect .logo img {
-    max-width: 85%;
+    max-width: 65%;
     height: auto;
   }
   .strip_template .strip-item a:after {
