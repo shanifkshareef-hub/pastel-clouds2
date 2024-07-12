@@ -9674,9 +9674,9 @@ textarea:focus:-ms-input-placeholder {
     display: block !important;
   }
 
-  .main_header header {
+  /* .main_header header {
     padding-right: 40px;
-  }
+  } */
 
   .mobile_menu_wrapper {
     display: none;
@@ -9767,6 +9767,8 @@ textarea:focus:-ms-input-placeholder {
   .logo_sect {
     float: none;
     display: block;
+    width: fit-content;
+    margin: auto;
   }
 
   .logo_sect .logo {
@@ -9776,8 +9778,8 @@ textarea:focus:-ms-input-placeholder {
   }
 
   .logo_sect .logo img {
-    max-width: 65%;
-    height: auto;
+    height: 30px;
+    /* height: auto; */
   }
   .strip_template .strip-item a:after {
     width: 100%;

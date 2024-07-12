@@ -215,7 +215,7 @@
     }
 
     // Mobile Menu
-    jQuery('.header_parent_wrap').append('<div class="mobile-navigation-toggle"><div class="toggle-box"><div class="toggle-inner"></div></div></div>');
+    // jQuery('.header_parent_wrap').append('<div class="mobile-navigation-toggle"><div class="toggle-box"><div class="toggle-inner"></div></div></div>');
     jQuery('.mobile_menu_wrapper').html(jQuery('.main_header nav').html());
 
     jQuery('.mobile-navigation-toggle').on("click", function() {
